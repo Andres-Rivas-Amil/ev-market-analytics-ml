@@ -45,5 +45,16 @@ Se entrenaron modelos basados en **Bosques Aleatorios (Random Forest Regressor)*
    * **Insight Clave:** La marca pasa a ser casi irrelevante (peso de 0.049). El precio está anclado a factores técnicos y de mercado: la **Potencia (0.464)** y el **Segmento (0.338)** explican el 80% de la variabilidad del coste.
    * **Análisis de Residuos:** Distribución simétrica y centrada en $0 (sesgo mínimo), confirmando la robustez del modelo predictivo no lineal frente a modelos lineales tradicionales.
 
+## 🎯 Enfoque Metodológico y Objetivos de Negocio
 
+Este proyecto no se limitó a explorar datos al azar; se diseñó bajo una metodología estructurada orientada a resolver necesidades del sector automotriz. Antes de iniciar la fase técnica, se desarrolló un **Plan Analítico** con 8 casos de uso estratégicos.
+
+Puedes consultar el documento de planificación original aquí:
+* [📋 Plan de Análisis y Casos de Uso (PDF)](./docs/Plan_Analitico_Mercado_EV.pdf)
+
+### 📈 Casos de Uso Clave Abordados:
+De los objetivos planteados en la estrategia, el proyecto resuelve con éxito los núcleos analíticos más complejos:
+* **Predicción de Precios y Ventas (Casos 1 y 7):** Implementación del modelo *Random Forest* en Python, descubriendo el fuerte impacto de la marca en el volumen de ventas (0.813) frente al peso del rendimiento en el precio final (0.464).
+* **Análisis de Valor y Segmentación (Casos 2, 3 y 8):** Mapeo en Power BI de la relación Autonomía vs. Precio, contrastando el segmento económico (<$35k) frente al de lujo (>$100k) y evaluando la eficiencia de millas por dólar.
+* **Evolución Tecnológica y Ventas 2020-2026 (Casos 4 y 5):** Dashboards interactivos que muestran la trayectoria de la capacidad de las baterías, velocidades de carga y cuotas de mercado a lo largo de los últimos 6 años.
   
