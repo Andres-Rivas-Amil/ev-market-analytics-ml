@@ -38,7 +38,7 @@ Se entrenaron modelos basados en **Bosques Aleatorios (Random Forest Regressor)*
 Este proyecto no se limitó a explorar datos al azar; se diseñó bajo una metodología estructurada orientada a resolver necesidades del sector automotriz. Antes de iniciar la fase técnica, se desarrolló un **Plan Analítico** con 8 casos de uso estratégicos.
 
 Puedes consultar el documento de planificación original aquí:
-* [📋 Plan de Análisis y Casos de Uso (PDF)](./docs/Plan_Analitico_Mercado_EV.pdf)
+* [📋 Plan de Análisis y Casos de Uso (PDF)](Notebooks/Plan_Analitico_Mercado_EV.pdf)
 
 ### 📈 Casos de Uso Clave Abordados:
 De los objetivos planteados en la estrategia, el proyecto resuelve con éxito los núcleos analíticos más complejos:
