@@ -44,7 +44,7 @@ Puedes consultar el documento de planificación original aquí:
 
 Para una visualización rápida y directa desde el navegador, puedes acceder a los informes ejecutivos del proyecto:
 
-* [📄 Leer Resumen Ejecutivo del Mercado EV (PDF)](./reports/resumen_ejecutivo_ev_market.pdf) – Documento de síntesis con las conclusiones globales, métricas de competidores (Tesla vs. BYD) e insights de negocio.
+* [📄 Leer Resumen Ejecutivo del Mercado EV (PDF)](Notebooks/resumen_ejecutivo_ev_market.docx.pdf) – Documento de síntesis con las conclusiones globales, métricas de competidores (Tesla vs. BYD) e insights de negocio.
 * [📈 Ver Reporte de Power BI (PDF)](./reports/Vehiculos_Electricos_2026.pdf) – Distribución visual de los dashboards interactivos de Ventas, Producto y Estrategia de Mercado.
 * [💻 Ver Cuaderno de Machine Learning (PDF)](./notebooks/Estudio%20coches%20electricos.pdf) – Código completo en Python, análisis exploratorio (EDA) y entrenamiento del modelo Random Forest con sus métricas de error.
 ### 📈 Casos de Uso Clave Abordados:
