@@ -40,6 +40,13 @@ Este proyecto no se limitó a explorar datos al azar; se diseñó bajo una metod
 Puedes consultar el documento de planificación original aquí:
 * [📋 Plan de Análisis y Casos de Uso (PDF)](Notebooks/Plan_Analitico_Mercado_EV.pdf)
 
+## 📂 Documentación y Entregables del Proyecto
+
+Para una visualización rápida y directa desde el navegador, puedes acceder a los informes ejecutivos del proyecto:
+
+* [📄 Leer Resumen Ejecutivo del Mercado EV (PDF)](./reports/resumen_ejecutivo_ev_market.pdf) – Documento de síntesis con las conclusiones globales, métricas de competidores (Tesla vs. BYD) e insights de negocio.
+* [📈 Ver Reporte de Power BI (PDF)](./reports/Vehiculos_Electricos_2026.pdf) – Distribución visual de los dashboards interactivos de Ventas, Producto y Estrategia de Mercado.
+* [💻 Ver Cuaderno de Machine Learning (PDF)](./notebooks/Estudio%20coches%20electricos.pdf) – Código completo en Python, análisis exploratorio (EDA) y entrenamiento del modelo Random Forest con sus métricas de error.
 ### 📈 Casos de Uso Clave Abordados:
 De los objetivos planteados en la estrategia, el proyecto resuelve con éxito los núcleos analíticos más complejos:
 * **Predicción de Precios y Ventas (Casos 1 y 7):** Implementación del modelo *Random Forest* en Python, descubriendo el fuerte impacto de la marca en el volumen de ventas (0.813) frente al peso del rendimiento en el precio final (0.464).
