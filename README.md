@@ -45,8 +45,7 @@ Puedes consultar el documento de planificación original aquí:
 Para una visualización rápida y directa desde el navegador, puedes acceder a los informes ejecutivos del proyecto:
 
 * [📄 Leer Resumen Ejecutivo del Mercado EV (PDF)](Notebooks/resumen_ejecutivo_ev_market.docx.pdf) – Documento de síntesis con las conclusiones globales, métricas de competidores (Tesla vs. BYD) e insights de negocio.
-* [📈 Ver Reporte de Power BI (PDF)](Reports/Coches electricos Dashboard Power BI.pdf) – Distribución visual de los dashboards interactivos de Ventas, Producto y Estrategia de Mercado.
-* [💻 Ver Cuaderno de jupiter notebook con el ETL, EDA y ML](Notebooks/Estudio coches electricos.ipynb) – Código completo en Python, análisis exploratorio (EDA) y entrenamiento del modelo Random Forest con sus métricas de error.
+
 ### 📈 Casos de Uso Clave Abordados:
 De los objetivos planteados en la estrategia, el proyecto resuelve con éxito los núcleos analíticos más complejos:
 * **Predicción de Precios y Ventas (Casos 1 y 7):** Implementación del modelo *Random Forest* en Python, descubriendo el fuerte impacto de la marca en el volumen de ventas (0.813) frente al peso del rendimiento en el precio final (0.464).
